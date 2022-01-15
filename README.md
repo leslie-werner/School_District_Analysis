@@ -6,7 +6,13 @@ The purpose of this analysis is to provide insight about trends and patterns fro
 ## Results
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
  * How is the district summary affected?
- 
+ * 
+ Before NaNs were added to Thomas High School ninth graders.
+ <img width="1440" alt="before_district_school_summary" src="https://user-images.githubusercontent.com/65638310/149604870-7810dedd-0951-49b7-b7b6-6e47521d12e9.png">
+
+ After NaNs were added to Thomas High School ninth graders.
+ <img width="1365" alt="district_summary_df" src="https://user-images.githubusercontent.com/65638310/149604690-976149bc-8711-42e6-b1cc-ada7f6de9241.png">
+
  
 * How is the school summary affected?
 
