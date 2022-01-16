@@ -2,6 +2,7 @@
 
 ## Overview
 The purpose of this analysis is to provide insight about trends and patterns from high school standardized tests. After viewing the results, important decisions will be made including student funding. Due to dishonesty for ninth graders from Thomas High School, grades had to be replaced with NaNs while keeping the rest of the data intact. Once completed, an analysis report will be made to describing how these changes affected the overall analysis.
+
 ## Results
 ### * How is the district summary affected?
  
@@ -47,19 +48,16 @@ The purpose of this analysis is to provide insight about trends and patterns fro
  
   #### * Scores by school size
   
-   The score by school size was 
-   Figure . 
-    
-   Figure .
+   Thomas High school is condidered to be medium sized school which ranges from 1,000 to 2,000 students. The score by school size was reduced due to having to remove the scores for ninth graders.  
     
   #### * Scores by school type
    When rounding to the nearest tenth and whole number, there average scores and percentages stay the same. It would take more numbers after the decimal to be able to notice the difference changing the score made. 
    
    Figure . Scores before NaNs were added to night graders at Thomas High School.
-   
+   <img width="1435" alt="before_school_type" src="https://user-images.githubusercontent.com/65638310/149644070-ce4dcfcd-b55b-477c-81e1-daf2cf33dd91.png">
+
    Figure . Scores after NaNs were added to ninth graders at Thomas High School.
     <img width="1440" alt="after_school_type" src="https://user-images.githubusercontent.com/65638310/149643616-78adf4fe-e23b-41ba-b15a-d046fd569015.png">
 
 ## Summary
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-When the NaNs were added to the ninth graders at Thoams High School, there were changes to the updated district school analysis. One of the changes was that occured was that the overall score of Thomas High School was dropped. Another change that occured was that when rounding to the nearest tenth, Thomas High School was no longer the only school in top 2. It made it tied with Griffin High School and Wilson High School. Thirdly, 
+When the NaNs were added to the ninth graders at Thoams High School, there were changes to the updated district school analysis. One of the changes was that occured was that the overall score of Thomas High School was dropped much grader than the score before. Another change that occured was that when rounding to the nearest tenth, Thomas High School was no longer the only school in top 2. It made it tied with Griffin High School and Wilson High School. Thirdly, the average reading score was impacted when looking at analyzing the school summary. A fourth change that occured was that at a district level the average math score decreased when looking at the data. 
